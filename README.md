@@ -28,9 +28,11 @@ In this project, the characters are:-
                    Can ask anybody in community of the app to help him out to use the app.
                    Other users can apporach to a user for help.
                    
-Story :- User will contact the doner for a book.
-              Hello, do you have the book which I have just pulled the request. I am getting bored at my home in the pandamic and I want something new to entertain me.Please       
-              help!!.
+Story :- 
+
+         User will contact the doner for a book.
+         Hello, do you have the book which I have just pulled the request. I am getting bored at my home in the pandamic and I want something new to entertain me.Please       
+         help!!.
               
          Doner will reply in yes or no.
               Yes :- Yes, I have it, I will publish it on your E-Mail address with it's provided information and time limit to return it.
